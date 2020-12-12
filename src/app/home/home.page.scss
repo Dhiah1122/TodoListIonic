@@ -1,0 +1,16 @@
+.bg-img {
+  padding: 1px;
+  height: 100%;
+  width: 100%;
+  background-image: url('../../assets/icon/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.add-button {
+  --background: #383a3e;
+  position: absolute;
+  bottom: 5px;
+  width: 96%;
+  --color: #ffffff;
+  margin-left: 2%;
+}
